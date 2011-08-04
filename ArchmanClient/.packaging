@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configurations>
+<archive destination="lib" exploded="false" name="archmanentity.jar" used="true">
+<folder excludes="" includes="" location="../ArchmanEntity/bin" prefix="" used="true"/>
+</archive>
+</configurations>

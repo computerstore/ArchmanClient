@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry exported="true" kind="lib" path="lib/jboss-integration.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jboss-security-spi.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jboss-javaee.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jbosssx-client.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jboss-common-core.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/concurrent.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jboss-aspect-jdk50-client.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jboss-aop-client.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jboss-remoting.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jboss-logging-spi.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/archmanentity.jar" sourcepath="/ArchmanEntity/src/it/archiworld/common/protocol"/>
+	<classpathentry exported="true" kind="lib" path="lib/SWTCalendar.jar" sourcepath="ArchmanClientsrc.zip"/>
+	<classpathentry exported="true" kind="lib" path="lib/jxl.jar" sourcepath="ArchmanClientsrc.zip"/>
+	<classpathentry exported="true" kind="lib" path="lib/nebula.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/gface.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ejb3-persistence.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jbossall-client.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-collections.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-logging.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/hibernate-core.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/hibernate-entitymanager.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jboss-ejb3-common-client.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jboss-ejb3-core-client.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jboss-ejb3-ext-api-impl.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jboss-ejb3-ext-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jboss-ejb3-proxy-clustered-client.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jboss-ejb3-proxy-impl-client.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jboss-ejb3-proxy-spi-client.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jboss-ejb3-security-client.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jboss-appclient.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jnp-client.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="lib/iText-5.0.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

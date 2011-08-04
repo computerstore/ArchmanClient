@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?NLS TYPE="org.eclipse.help.toc"?>
+
+<toc label="Inhaltsverzeichnis" topic="html/toc.html">
+	<topic label="Hauptthema"  href="html/maintopic.html"> 
+		<topic label="Unterthema" href="html/subtopic.html"/> 
+	</topic>
+	<topic label="Unterthema 2"/>
+</toc>

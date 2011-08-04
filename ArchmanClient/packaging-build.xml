@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="ArchmanClient Library Generator" default="refresh_entities">
+<target name="refresh_entities" description="Generate new archmanentity.jar">
+<mkdir dir="lib"/>
+<jar destfile="lib/archmanentity.jar">
+<zipfileset dir="../ArchmanEntity/bin"/>
+</jar>
+</target>
+<target name="refresh_libraries" description="Generate external libraries from CVS">
+	<jar destfile="lib/nebula.jar">
+		<zipfileset dir="../org.eclipse.swt.nebula.widgets/bin"/>
+		<zipfileset dir="../CDateTime/bin"/>
+	</jar>
+	<jar destfile="lib/SWTCalendar.jar">
+		<zipfileset dir="../SWTCalendar/bin"/>
+	</jar>
+	<jar destfile="lib/gface.jar">
+		<zipfileset dir="../GFace/bin/"/>
+	</jar>
+</target>
+</project>
